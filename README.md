@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyperDanisH
-- 👀 I’m interested in WebDEv
-- 🌱 I’m currently learning To Build my dream app
-- 💞️ I’m looking to collaborate on A guy dreaming to surppass INSTAGRAM
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning to build my dream app
+- 💞️ I’m looking to collaborate on a guy dreaming to surpass INSTAGRAM
 - 📫 How to reach me 
 
 <!---
