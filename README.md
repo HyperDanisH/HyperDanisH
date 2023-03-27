@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning to build my dream app
 - 💞️ I’m looking to collaborate on open source
-- 📫 React me with my IG:- ._danisharora
+- 📫 Reach me with my IG:- ._danisharora
 
 <!---
 HyperDanisH/HyperDanisH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
